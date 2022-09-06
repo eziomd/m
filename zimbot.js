@@ -8,8 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
-//▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
+//▮WHATSAPP US : wa.me/989935689926
+//▮YOUTUBE CHANNELL:    کیر  شدی
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -69,9 +69,9 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname = 'SHEWON MD BOT'
-wm = 'SHEWON MD BOT'
-global.reactmoji = '📂'
+botname = 'EZIO MD BOT V2'
+wm = 'EZIO MD BOT'
+global.reactmoji = '🖤'
 limitCount = setting.limit
 
 //read database
@@ -90,7 +90,7 @@ const dripsno = JSON.parse(fs.readFileSync('./database/autoblock.json'))
 const dripswelcome = JSON.parse(fs.readFileSync('./database/welcome.json'))
 
 
-//////created by zim-bot-inc
+//////created by ezio-bot-inc
 
 module.exports = ZimBotInc = async (ZimBotInc, m, chatUpdate, store) => {
     try {
@@ -1400,28 +1400,28 @@ case 'limituser':
   }
  break
       case 'shewon': {
-kingbotcmd = `[🕊️𝚂𝙷𝙴𝚆𝙾𝙽-𝙼𝙳-𝙱𝙾𝚃🕊️] 
+kingbotcmd = `[𝖤𝖹𝖨𝖮-𝙼𝙳-𝙱𝙾𝚃] 
 ╹❝𝗦𝗥𝗜 𝗟𝗔𝗡𝗞𝗔 𝗕𝗘𝗦𝗧 𝗪𝗔 𝗕𝗢𝗧❞╹
 
 ╭────────────────◉
-│🎲 𝙾𝚆𝙽𝙴𝚁    ➢ 𝙎𝙃𝙀𝙒𝙊𝙉
+│🎲 𝙾𝚆𝙽𝙴𝚁    ➢ 𝗘𝗭𝗜𝗢
 │🎲 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 ➢ NODE.js
 │🎲 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 ➢ 𝙼𝚁.ʀᴀᴠᴇᴇsʜᴀ
 ╰────────────────◉
 
 
 ╭╶╶╶╶╶╶╶╶╶╶╶╶╶╶💫
-│       🍒 ✨️𝗔𝗗𝗠𝗜𝗡™✨️ 🍒
+│        ✨️𝗔𝗗𝗠𝗜𝗡™✨️ 
 │🍁─────────────🍁
 │      
 │
-│🔰✨️ ᴍʀ ʙɪɴᴜᴋᴀ ✨️ ᭄
+│ ᴍʀ ʙɪɴᴜᴋᴀ ✨️ ᭄
 │      ◉ ᴛᴇxᴛ ᴇᴅɪᴛᴏʀ
 │      
-│🔰✨️  ᴄʜᴀᴍɪᴋᴀ ✨️ ᭄
+│  ᴄʜᴀᴍɪᴋᴀ ✨️ ᭄
 │      ◉ ᴇʜɪ ᴄʀᴇᴀᴛᴏʀ
 │      
-│🔰✨️ ɴɪsᴀʟ    ✨️ ᭄
+│ ɴɪsᴀʟ    ✨️ ᭄
 │🔰✨️ ᴄʜᴀᴍɪᴋᴀ  ✨️ ᭄
 │🔰✨️ ᴋᴀᴡɪsʜᴋᴀ ✨️ ᭄
 │🔰✨️ ʙɪɴᴜᴋᴀ   ✨️ ᭄
@@ -1439,7 +1439,7 @@ kingbotcmd = `[🕊️𝚂𝙷𝙴𝚆𝙾𝙽-𝙼𝙳-𝙱𝙾𝚃🕊️]
    ┋ *⚜️ ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ ⚜️*┋
                      
   🍁𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝗳𝗼𝗿 𝗰𝗵𝗼𝗼𝘀𝗶𝗻𝗴🍁
-       🔥❝𝙎𝙃𝙀𝙒𝙊𝙉 𝙈𝘿 𝘽𝙊𝙏❞🔥`
+       🔥❝𝙀𝙕𝙄𝙊 𝙈𝘿 𝘽𝙊𝙏❞🔥`
 
 let buttons = [
                {buttonId: `listmenu`, buttonText: {displayText: 'LIST'}, type: 1},
@@ -1956,13 +1956,13 @@ break
                     if (!isAdmins) throw mess.admin
     let teks = ` 
      ┏━━━━━━━━━━━┑
-     ┃🌟𝗧𝗔𝗚𝗔𝗟𝗟🌟
+     ┃𝗧𝗔𝗚𝗔𝗟𝗟 ➽ wa.me/989935689926
      ┃┄┄┄┄┄┄┄┄┄┄┄┊
      ┃*𝐌𝐄𝐒𝐒𝐀𝐆𝐄 : ${q ? q : 'blank'}*\n\n
      ┗━━━━━━━━ 
     `
      for (let mem of participants) {
-                    teks += `🎪 @${mem.id.split('@')[0]}\n`
+                    teks += `𝙀𝙕𝙄𝙊➥︎ @${mem.id.split('@')[0]}\n`
                     }
                     ZimBotInc.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
                     }
@@ -7091,7 +7091,7 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Asia/Colombo').format('HH:mm:ss')}*
 ┃ 
 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://bit.ly/3cgVaNR
+┃     کیر  شدی سید
 ┃
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                sʜᴇᴡᴏɴ-ᴍᴅ-ʙᴏᴛ
@@ -7650,7 +7650,7 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃⬤${prefix}ramaljodohbali
 ┗━━━━━━━━━━━━━⦿
 
-©️𝙎𝙃𝙀𝙒𝙊𝙉 𝙈𝘿 𝘽𝙊𝙏
+©️𝙀𝙕𝙄𝙊 𝙈𝘿 𝘽𝙊𝙏
 `
 let btn = [{
           urlButton: {
@@ -8018,7 +8018,7 @@ let hao = randomNomor(200)
 ┃⬤ ${prefix}ahegao
 ┗━━━━━━━━━⦿
 
-©️𝙎𝙃𝙀𝙒𝙊𝙉 𝙈𝘿 𝘽𝙊𝙏
+©️𝙀𝙕𝙄𝙊 𝙈𝘿 𝘽𝙊𝙏
 `
 function _0x3217(_0x37715e,_0x2f6592){const _0xa94637=_0xa946();return _0x3217=function(_0x32173c,_0x1faa3c){_0x32173c=_0x32173c-0x123;let _0x3b0d30=_0xa94637[_0x32173c];return _0x3b0d30;},_0x3217(_0x37715e,_0x2f6592);}const _0x3ea3f4=_0x3217;(function(_0x329815,_0x3187af){const _0x1742ff=_0x3217,_0x11de18=_0x329815();while(!![]){try{const _0x2af702=parseInt(_0x1742ff(0x12e))/0x1*(-parseInt(_0x1742ff(0x133))/0x2)+-parseInt(_0x1742ff(0x132))/0x3*(parseInt(_0x1742ff(0x138))/0x4)+-parseInt(_0x1742ff(0x134))/0x5*(parseInt(_0x1742ff(0x127))/0x6)+parseInt(_0x1742ff(0x12f))/0x7*(parseInt(_0x1742ff(0x136))/0x8)+-parseInt(_0x1742ff(0x128))/0x9+-parseInt(_0x1742ff(0x129))/0xa+-parseInt(_0x1742ff(0x12b))/0xb*(-parseInt(_0x1742ff(0x131))/0xc);if(_0x2af702===_0x3187af)break;else _0x11de18['push'](_0x11de18['shift']());}catch(_0x573d7e){_0x11de18['push'](_0x11de18['shift']());}}}(_0xa946,0x26ed7));let message=await prepareWAMessageMedia({'image':buffer,'jpegThumbnail':buffer},{'upload':ZimBotInc[_0x3ea3f4(0x130)]});function _0xa946(){const _0x2a0735=['imageMessage','127KwzpDy','7qrwpSX','waUploadToServer','12123564BOwpfZ','784317yPMltC','4158aFgTZO','97980uRbCpG','relayMessage','424624qYNVeq','https://youtube.com/c/slcartooninstudio','4SXNURK','chat','SUBSCRIBE','key','Message','84npVzAw','485649YpjWQW','501510MVGWCT','botname','11WGaHFz','https://github.com/CyberKing4/SHEWON-MD-BOT'];_0xa946=function(){return _0x2a0735;};return _0xa946();}const template=generateWAMessageFromContent(m[_0x3ea3f4(0x123)],proto[_0x3ea3f4(0x126)]['fromObject']({'templateMessage':{'hydratedTemplate':{'imageMessage':message[_0x3ea3f4(0x12d)],'hydratedContentText':anu,'hydratedFooterText':''+global[_0x3ea3f4(0x12a)],'hydratedButtons':[{'urlButton':{'displayText':_0x3ea3f4(0x124),'url':_0x3ea3f4(0x137)}},{'urlButton':{'displayText':'GITHUB','url':_0x3ea3f4(0x12c)}}]}}}),{'userJid':m['chat']});ZimBotInc[_0x3ea3f4(0x135)](m['chat'],template['message'],{'messageId':template[_0x3ea3f4(0x125)]['id']});
                 }
@@ -8045,7 +8045,7 @@ function _0x3217(_0x37715e,_0x2f6592){const _0xa94637=_0xa946();return _0x3217=f
                 ┃ *✧ᴛɪᴍᴇ:* *${moment.tz('Asia/Colombo').format('HH:mm:ss')}*
                 ┃ 
                 ┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-                ┃https://bit.ly/3cgVaNR
+                ┃    کیر شدی سید
                 ┃
                 ┃━━━━━━━━━━━━━━━━━━┃
                 ┃                sʜᴇᴡᴏɴ-ᴍᴅ-ʙᴏᴛ
@@ -8064,7 +8064,7 @@ function _0x3217(_0x37715e,_0x2f6592){const _0xa94637=_0xa946();return _0x3217=f
                 ┃⬤${prefix}leaderboard
                 ┗━━━━━━━━━━⦿
                 
-                ©️𝙎𝙃𝙀𝙒𝙊𝙉 𝙈𝘿 𝘽𝙊𝙏
+                ©️𝙀𝙕𝙄𝙊 𝙈𝘿 𝘽𝙊𝙏
                 `
                 function _0x186b(){const _0x16c1b5=['135080AGrzDU','Message','GITHUB','10mzHMwO','chat','21bZsKRC','552424zUneQH','1429756BqfDSd','key','240mbdKBv','relayMessage','844052JLGZth','146104dkkfWS','1857480tcaVPE','595awiboR','16150698mclKJV','botname','waUploadToServer','SUBSCRIBE'];_0x186b=function(){return _0x16c1b5;};return _0x186b();}const _0x36f452=_0x131e;(function(_0x25c54b,_0x526416){const _0x54eaa5=_0x131e,_0x24b40d=_0x25c54b();while(!![]){try{const _0x437851=-parseInt(_0x54eaa5(0x193))/0x1+-parseInt(_0x54eaa5(0x1a0))/0x2+parseInt(_0x54eaa5(0x19e))/0x3*(-parseInt(_0x54eaa5(0x19f))/0x4)+parseInt(_0x54eaa5(0x199))/0x5*(parseInt(_0x54eaa5(0x1a2))/0x6)+-parseInt(_0x54eaa5(0x194))/0x7*(-parseInt(_0x54eaa5(0x1a5))/0x8)+parseInt(_0x54eaa5(0x195))/0x9*(parseInt(_0x54eaa5(0x19c))/0xa)+parseInt(_0x54eaa5(0x1a4))/0xb;if(_0x437851===_0x526416)break;else _0x24b40d['push'](_0x24b40d['shift']());}catch(_0x459222){_0x24b40d['push'](_0x24b40d['shift']());}}}(_0x186b,0xeba1d));let message=await prepareWAMessageMedia({'image':buffer,'jpegThumbnail':buffer},{'upload':ZimBotInc[_0x36f452(0x197)]});const template=generateWAMessageFromContent(m['chat'],proto[_0x36f452(0x19a)]['fromObject']({'templateMessage':{'hydratedTemplate':{'imageMessage':message['imageMessage'],'hydratedContentText':anu,'hydratedFooterText':''+global[_0x36f452(0x196)],'hydratedButtons':[{'urlButton':{'displayText':_0x36f452(0x198),'url':'https://youtube.com/c/slcartooninstudio'}},{'urlButton':{'displayText':_0x36f452(0x19b),'url':'https://github.com/CyberKing4/SHEWON-MD-BOT'}}]}}}),{'userJid':m[_0x36f452(0x19d)]});function _0x131e(_0xb57061,_0x1d708f){const _0x186b37=_0x186b();return _0x131e=function(_0x131e55,_0x4245fa){_0x131e55=_0x131e55-0x193;let _0x47b1da=_0x186b37[_0x131e55];return _0x47b1da;},_0x131e(_0xb57061,_0x1d708f);}ZimBotInc[_0x36f452(0x1a3)](m[_0x36f452(0x19d)],template['message'],{'messageId':template[_0x36f452(0x1a1)]['id']});
           }
